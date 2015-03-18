@@ -1,0 +1,17 @@
+####################################################################### 
+App geoloc
+
+- Map
+- Event Loc chenged TR
+- FrameLayout ajouter des boutons pour dessey
+- il veut des fragments
+- - Dans le deuxieme framelayout un bouton pour stocker la position (avec un cercle autour)
+- - Capture de la trace
+- - base de données spatial ESSAYER
+- Info avec marqueur
+- - WS - JSON/XML
+- Info trafique ??!!??
+- Fragment
+########################################################################
+RENDU VOIR AVEC EMMANUEL                                               #
+########################################################################
